@@ -1,4 +1,4 @@
-# 🔍 Steel Surface Defect Detection using Deep Learning
+# 🔍 Steel Surface Defect Classification using Deep Learning
 
 ---
 
@@ -86,9 +86,9 @@ Model performance is evaluated using:
 
 ## 📁 Repository Structure
 ```
-Steel-Surface-Defect-Detection/
+Steel-Surface-Defect-Classification/
 │
-├── steel surface defect detection.ipynb
+├── steel surface defect classification.ipynb
 └── README.md
 ```
 
@@ -106,7 +106,7 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
 ### Step 2 — Run Notebook
 Launch Jupyter Notebook and execute:
 ```
-steel surface defect detection.ipynb
+steel surface defect classification.ipynb
 ```
 
 ---
